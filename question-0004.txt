@@ -1,1 +1,0 @@
-En este ejercicio trabajas con evaluación de modelos de regresión, donde recibes un DataFrame con variables independientes y una variable objetivo continua; debes implementar una función llamada evaluar_modelo(df, target_col) que entrene un modelo LinearRegression y calcule el error cuadrático medio (MSE), devolviendo ese valor como medida de desempeño.
