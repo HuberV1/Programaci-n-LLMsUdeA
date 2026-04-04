@@ -1,0 +1,1 @@
+En este problema trabajas con machine learning, donde recibes un DataFrame con variables predictoras y una variable objetivo; debes implementar una función llamada entrenar_clasificador(df, target_col) que separe X e y, entrene un modelo LogisticRegression de sklearn y devuelva el modelo entrenado.
