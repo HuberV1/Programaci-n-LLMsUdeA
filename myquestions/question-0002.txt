@@ -1,0 +1,1 @@
+En este ejercicio se trabaja con análisis de datos, donde recibes un DataFrame con información de estudiantes que incluye su grupo y sus notas; debes implementar una función llamada resumen_estudiantes(df) que agrupe por grupo y calcule el promedio de las notas, devolviendo un DataFrame con el grupo y su promedio correspondiente.
